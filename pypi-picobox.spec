@@ -5,7 +5,7 @@
 #
 Name     : pypi-picobox
 Version  : 3.0.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/29/58/62da7083e7d3ce07fb5d13c89636fe8d224083d1d724327636482167dfb9/picobox-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/29/58/62da7083e7d3ce07fb5d13c89636fe8d224083d1d724327636482167dfb9/picobox-3.0.0.tar.gz
 Summary  : Dependency injection framework designed with Python in mind.
